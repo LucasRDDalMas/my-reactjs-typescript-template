@@ -1,0 +1,9 @@
+.vscode
+node_modules
+coverage
+public
+.husky
+*.scss
+dist
+*.svg
+**/assets
